@@ -1,0 +1,17 @@
+# Notebook cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local environment
+.env
+.venv/
+venv/
+.DS_Store
+
+# Datasets are stored externally on Google Drive
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.zip
